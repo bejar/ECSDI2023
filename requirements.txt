@@ -1,0 +1,9 @@
+rdflib
+flask
+SPARQLWrapper
+requests
+numpy
+matplotlib
+amadeus
+foursquare
+pif
